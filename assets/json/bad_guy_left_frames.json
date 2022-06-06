@@ -1,0 +1,28 @@
+[{
+    "name": "zombie_left01",
+    "frame": {
+      "x": 9,
+      "y": 77,
+      "width": 30,
+      "height": 42
+    }
+  },
+  {
+    "name": "zombie_left02",
+    "frame": {
+      "x": 54,
+      "y": 76,
+      "width": 33,
+      "height": 43
+    }
+  },
+  {
+    "name": "zombie_left03",
+    "frame": {
+      "x": 99,
+      "y": 77,
+      "width": 33,
+      "height": 42
+    }
+  }
+]
